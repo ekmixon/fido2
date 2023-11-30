@@ -32,7 +32,7 @@
     "datatables.net": "^1.10.19",
     "datatables.net-bs4": "^1.10.19",
     "enhanced-resolve": "^3.3.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "ngx-cookie-service": "^1.0.10",
     "ngx-dropzone-wrapper": "^6.1.0",
     "primeng": "^4.1.3",
