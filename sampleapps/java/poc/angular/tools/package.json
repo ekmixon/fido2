@@ -121,7 +121,7 @@
         "gulp-replace": "^1.0.0",
         "gulp-rewrite-css": "^1.1.0",
         "gulp-rtlcss": "^1.2.0",
-        "gulp-sass": "^4.0.1",
+        "gulp-sass": "^5.0.0",
         "gulp-sourcemaps": "^2.6.5",
         "gulp-uglify-es": "^1.0.1",
         "imports-loader": "^0.8.0",
